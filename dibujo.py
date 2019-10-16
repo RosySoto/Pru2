@@ -1,6 +1,6 @@
 __author__ = 'kaue'
 import turtle,time
-colors = ['red', 'yellow', 'blue', 'green', 'yellow', 'orange', 'pink']
+colors = ['blue', 'yellow', 'blue', 'green', 'blue', 'orange', 'red']
 t1=turtle.Pen()
 turtle.bgcolor('black')
 t1.speed(0)
